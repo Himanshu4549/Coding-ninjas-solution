@@ -24,8 +24,7 @@ Objectives:-
 Note:
 You must use switch statements to test the conditions.
 // Write the program to calculate the discount on the given amount
-// store the calculated discount in the "discount" variable
-// Please do not alter anything given in the starter code*/
+*/
 
 
 
