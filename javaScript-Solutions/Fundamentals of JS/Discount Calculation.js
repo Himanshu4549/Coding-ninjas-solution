@@ -21,9 +21,6 @@ Objectives:-
 
 7- If the amount is greater than or equal to 5000, then the value of the discount should be "50% Discount."
 
-Note:
-You must use switch statements to test the conditions.
-// Write the program to calculate the discount on the given amount
 */
 
 
