@@ -1,6 +1,5 @@
 /*
 Problem statement
-
 Create a program that determines if a patient has a fever based on their body temperature reading.
 
 Test Cases:-
@@ -17,6 +16,7 @@ d- If the value is less than 37 then in "result" it should store that "you don't
 Hints:-
 
 To round the converted temperature to one decimal place using the toFixed() method.
+
 */
 
 
